@@ -1,4 +1,4 @@
-# Link tải c3c fb state: https://drive.google.com/drive/folders/1exFiGdK4mxs1YrlqLvA9zHpvb9Q9UJsk?usp=sharing
+# Link for c3c fb state: https://drive.google.com/drive/folders/1exFiGdK4mxs1YrlqLvA9zHpvb9Q9UJsk?usp=sharing
 #
 # Miraibot
 # Các bước tạo bot:
